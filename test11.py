@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# 定义函数
+# 教程： https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431679203477b5b364aeba8c4e05a9bd4ec1b32911e2000
 
 import math
 
