@@ -6,8 +6,8 @@
 
 height = 1.75
 weight = 80.5
-bmi = weight / (height ** 2)
 
+bmi = weight / (height ** 2)
 if bmi < 18.5:
     print("您的 BMI 值为%.2f，体重过轻" % bmi)
 elif bmi < 25:
